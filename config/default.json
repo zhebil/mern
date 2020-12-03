@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "zhebil game mern",
+    "mongoUri": "mongodb+srv://zhebil:jeka2902@cluster0.zlqip.mongodb.net/game?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
